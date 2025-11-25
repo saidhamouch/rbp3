@@ -9668,7 +9668,9 @@
     "sku": "P00106114265",
     "title": "Robot Cat Cyborg",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140813"
   },
   {
     "externalId": 7053900,
@@ -9683,7 +9685,9 @@
     "sku": "P00106114263",
     "title": "Warrior Cat Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140818"
   },
   {
     "externalId": 7053898,
@@ -9698,7 +9702,9 @@
     "sku": "P00106114261",
     "title": "Cat Explorer in Uniform",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140823"
   },
   {
     "externalId": 7047695,
@@ -9713,7 +9719,9 @@
     "sku": "P00106108074",
     "title": "Wolf Roaring Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140830"
   },
   {
     "externalId": 7047677,
@@ -9728,7 +9736,9 @@
     "sku": "P00106108056",
     "title": "Saxophone Jazz Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140832"
   },
   {
     "externalId": 7047663,
@@ -9743,7 +9753,9 @@
     "sku": "P00106108042",
     "title": "Horse in Black and Gold",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140837"
   },
   {
     "externalId": 7047661,
@@ -9758,7 +9770,9 @@
     "sku": "P00106108040",
     "title": "Cute Green Frog",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140839"
   },
   {
     "externalId": 7047655,
@@ -9773,7 +9787,9 @@
     "sku": "P00106108034",
     "title": "White Dragon in the Clouds",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140844"
   },
   {
     "externalId": 7047651,
@@ -9788,7 +9804,9 @@
     "sku": "P00106108030",
     "title": "Warrior Cat Blossom Flower",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140846"
   },
   {
     "externalId": 7047649,
@@ -9803,7 +9821,9 @@
     "sku": "P00106108028",
     "title": "Aviator Cat in Uniform",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140851"
   },
   {
     "externalId": 7047644,
@@ -9818,7 +9838,9 @@
     "sku": "P00106108023",
     "title": "Cyborg Cat Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140856"
   },
   {
     "externalId": 7047639,
@@ -9833,7 +9855,9 @@
     "sku": "P00106108018",
     "title": "Cowboy Cat in a Hat",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140860"
   },
   {
     "externalId": 7040460,
@@ -9848,7 +9872,9 @@
     "sku": "P00106100932",
     "title": "Cottagecore Frog Guitar",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140867"
   },
   {
     "externalId": 7040456,
@@ -9863,7 +9889,9 @@
     "sku": "P00106100928",
     "title": "Horse in Black and Green",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140870"
   },
   {
     "externalId": 7040453,
@@ -9878,7 +9906,9 @@
     "sku": "P00106100925",
     "title": "Colorful Rooster Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140873"
   },
   {
     "externalId": 7040450,
@@ -9893,7 +9923,9 @@
     "sku": "P00106100923",
     "title": "Golden Elephant Portrait",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140874"
   },
   {
     "externalId": 7040447,
@@ -9908,7 +9940,9 @@
     "sku": "P00106100920",
     "title": "Bald Eagle Gaze",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140878"
   },
   {
     "externalId": 7040439,
@@ -9923,7 +9957,9 @@
     "sku": "P00106100912",
     "title": "White Wolf Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140883"
   },
   {
     "externalId": 7040425,
@@ -9938,7 +9974,9 @@
     "sku": "P00106100898",
     "title": "Colorful Dragon",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140887"
   },
   {
     "externalId": 7040421,
@@ -9953,7 +9991,9 @@
     "sku": "P00106100894",
     "title": "Noble Warrior Cat Portrait",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140890"
   },
   {
     "externalId": 7040399,
@@ -9968,7 +10008,9 @@
     "sku": "P00106100872",
     "title": "Cat Fisherman on a Lake",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140897"
   },
   {
     "externalId": 7040383,
@@ -9983,7 +10025,9 @@
     "sku": "P00106100856",
     "title": "Cat Explorer in Uniform",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140900"
   },
   {
     "externalId": 7035274,
@@ -9998,7 +10042,9 @@
     "sku": "P00106096117",
     "title": "Warrior Tiger Portrait",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140901"
   },
   {
     "externalId": 7035266,
@@ -10013,7 +10059,9 @@
     "sku": "P00106096109",
     "title": "Sloth with Headphones",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140905"
   },
   {
     "externalId": 7035262,
@@ -10028,7 +10076,9 @@
     "sku": "P00106096105",
     "title": "Golden Rooster Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140910"
   },
   {
     "externalId": 7035235,
@@ -10043,7 +10093,9 @@
     "sku": "P00106096078",
     "title": "Kraken Attacking Ship",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140912"
   },
   {
     "externalId": 7035215,
@@ -10058,7 +10110,9 @@
     "sku": "P00106096058",
     "title": "Fox Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140917"
   },
   {
     "externalId": 7035192,
@@ -10073,7 +10127,9 @@
     "sku": "P00106096035",
     "title": "Golden Elephant Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140919"
   },
   {
     "externalId": 7035187,
@@ -10088,7 +10144,9 @@
     "sku": "P00106096030",
     "title": "Colorful Dog Paint",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140926"
   },
   {
     "externalId": 7035171,
@@ -10103,7 +10161,9 @@
     "sku": "P00106096014",
     "title": "Cat in Uniform",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140930"
   },
   {
     "externalId": 7035151,
@@ -10118,7 +10178,9 @@
     "sku": "P00106095994",
     "title": "Robot Cat",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140931"
   },
   {
     "externalId": 7035138,
@@ -10133,7 +10195,9 @@
     "sku": "P00106095981",
     "title": "Cowboy Cat in Hat",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140935"
   },
   {
     "externalId": 7028377,
@@ -10148,7 +10212,9 @@
     "sku": "P00106089893",
     "title": "Black Wolf Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140939"
   },
   {
     "externalId": 7028361,
@@ -10163,7 +10229,9 @@
     "sku": "P00106089877",
     "title": "Tiger Japanese Warrior",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140942"
   },
   {
     "externalId": 7028356,
@@ -10178,7 +10246,9 @@
     "sku": "P00106089872",
     "title": "Golden Rooster Portrait",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140948"
   },
   {
     "externalId": 7028354,
@@ -10193,7 +10263,9 @@
     "sku": "P00106089870",
     "title": "Horse in Black and Green",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140951"
   },
   {
     "externalId": 7028347,
@@ -10208,7 +10280,9 @@
     "sku": "P00106089863",
     "title": "Golden Elepahnt Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140955"
   },
   {
     "externalId": 7028337,
@@ -10223,7 +10297,9 @@
     "sku": "P00106089853",
     "title": "Bald Eagle",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140962"
   },
   {
     "externalId": 7028335,
@@ -10238,7 +10314,9 @@
     "sku": "P00106089851",
     "title": "Japanese Noble Cat",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140965"
   },
   {
     "externalId": 7028326,
@@ -10253,7 +10331,9 @@
     "sku": "P00106089842",
     "title": "Cat Pilot in Uniform",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140974"
   },
   {
     "externalId": 7028320,
@@ -10268,7 +10348,9 @@
     "sku": "P00106089836",
     "title": "Cyborg Machine Cat",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140979"
   },
   {
     "externalId": 7028315,
@@ -10283,7 +10365,9 @@
     "sku": "P00106089831",
     "title": "Cowboy Cat Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140984"
   },
   {
     "externalId": 6908770,
@@ -10298,7 +10382,9 @@
     "sku": "P00105975503",
     "title": "Ceramic White Wolf Head",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627140991"
   },
   {
     "externalId": 6908762,
@@ -10313,7 +10399,9 @@
     "sku": "P00105975495",
     "title": "Tiger Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627141000"
   },
   {
     "externalId": 6908741,
@@ -10328,7 +10416,9 @@
     "sku": "P00105975474",
     "title": "Ship Painting",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627141001"
   },
   {
     "externalId": 6908531,
@@ -10343,7 +10433,9 @@
     "sku": "P00105975265",
     "title": "Giant Octopus Kraken",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627141004"
   },
   {
     "externalId": 6908494,
@@ -10358,7 +10450,9 @@
     "sku": "P00105975229",
     "title": "Bald Eagle Portrait",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627141010"
   },
   {
     "externalId": 6908480,
@@ -10373,7 +10467,9 @@
     "sku": "P00105975215",
     "title": "White Dragon",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627141016"
   },
   {
     "externalId": 6908461,
@@ -10388,7 +10484,9 @@
     "sku": "P00105975196",
     "title": "Cat Warrior Cherry Blossom",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627141026"
   },
   {
     "externalId": 6908448,
@@ -10403,7 +10501,9 @@
     "sku": "P00105975183",
     "title": "Cat Boxer Portrait",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143858"
   },
   {
     "externalId": 6908437,
@@ -10418,7 +10518,9 @@
     "sku": "P00105975172",
     "title": "Frog Musician",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143867"
   },
   {
     "externalId": 6908412,
@@ -10433,7 +10535,9 @@
     "sku": "P00105975147",
     "title": "Black and Green Horse",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143875"
   },
   {
     "externalId": 6906112,
@@ -10448,7 +10552,9 @@
     "sku": "P00105972945",
     "title": "Shrimp Dish",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143884"
   },
   {
     "externalId": 6906108,
@@ -10463,7 +10569,9 @@
     "sku": "P00105972941",
     "title": "Salmon Dish Ingredients",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143889"
   },
   {
     "externalId": 6906092,
@@ -10478,7 +10586,9 @@
     "sku": "P00105972925",
     "title": "Salmon Fish",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143899"
   },
   {
     "externalId": 6906091,
@@ -10493,7 +10603,9 @@
     "sku": "P00105972924",
     "title": "Minimalist Red Lobster",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143910"
   },
   {
     "externalId": 6906079,
@@ -10508,7 +10620,9 @@
     "sku": "P00105972912",
     "title": "Red Chili Pepper",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143919"
   },
   {
     "externalId": 6906058,
@@ -10523,7 +10637,9 @@
     "sku": "P00105972895",
     "title": "Olive Oil Bottle",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143926"
   },
   {
     "externalId": 6906056,
@@ -10538,7 +10654,9 @@
     "sku": "P00105972893",
     "title": "Green Jalapeno",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143935"
   },
   {
     "externalId": 6906053,
@@ -10553,7 +10671,9 @@
     "sku": "P00105972890",
     "title": "Garlic Bulbs and Cloves",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143944"
   },
   {
     "externalId": 6906045,
@@ -10568,7 +10688,9 @@
     "sku": "P00105972882",
     "title": "Flan with Strawberries",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143966"
   },
   {
     "externalId": 6906041,
@@ -10583,7 +10705,9 @@
     "sku": "P00105972878",
     "title": "Red Lobster Feast",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143969"
   },
   {
     "externalId": 6902331,
@@ -10598,7 +10722,9 @@
     "sku": "P00105969219",
     "title": "Black Golden Retriever",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143974"
   },
   {
     "externalId": 6902327,
@@ -10613,7 +10739,9 @@
     "sku": "P00105969215",
     "title": "Gaze of the Golden Tiger",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143981"
   },
   {
     "externalId": 6902310,
@@ -10628,7 +10756,9 @@
     "sku": "P00105969198",
     "title": "Colorful Rooster",
     "quantity": 1,
-    "commissionAfterTax": 4.85
+    "commissionAfterTax": 4.85,
+    "shared": true,
+    "pin_id": "814799757627143990"
   },
   {
     "externalId": 6902307,
@@ -10643,7 +10773,9 @@
     "sku": "P00105969195",
     "title": "Electric Guitar Splatter",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627143998"
   },
   {
     "externalId": 6902302,
@@ -10658,7 +10790,9 @@
     "sku": "P00105969190",
     "title": "Bald Eagle Stare",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627144005"
   },
   {
     "externalId": 6902298,
@@ -10673,7 +10807,9 @@
     "sku": "P00105969186",
     "title": "Pink Cat Samurai",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627144009"
   },
   {
     "externalId": 6902295,
@@ -10688,7 +10824,9 @@
     "sku": "P00105969183",
     "title": "Black Bear with Honey Jar",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627144014"
   },
   {
     "externalId": 6902285,
@@ -10703,7 +10841,9 @@
     "sku": "P00105969173",
     "title": "Cyborg Cat Machine",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627144018"
   },
   {
     "externalId": 6902284,
@@ -10718,7 +10858,9 @@
     "sku": "P00105969172",
     "title": "Frog Playing Guitar",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627144025"
   },
   {
     "externalId": 6900877,
@@ -10733,7 +10875,9 @@
     "sku": "P00105967781",
     "title": "Minimalist Shrimp",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627144029"
   },
   {
     "externalId": 6900871,
@@ -10748,7 +10892,9 @@
     "sku": "P00105967775",
     "title": "Vintage Salmon",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627144033"
   },
   {
     "externalId": 6900866,
@@ -10763,7 +10909,9 @@
     "sku": "P00105967770",
     "title": "Red Lobster",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627144052"
   },
   {
     "externalId": 6900860,
@@ -10778,7 +10926,9 @@
     "sku": "P00105967764",
     "title": "Red Chili Pepper",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146787"
   },
   {
     "externalId": 6900854,
@@ -10793,7 +10943,9 @@
     "sku": "P00105967758",
     "title": "Pineapple Pizza",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146795"
   },
   {
     "externalId": 6900838,
@@ -10808,7 +10960,9 @@
     "sku": "P00105967742",
     "title": "Olive Oil Bottle",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146801"
   },
   {
     "externalId": 6900827,
@@ -10823,7 +10977,9 @@
     "sku": "P00105967731",
     "title": "Flan with Caramel",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146809"
   },
   {
     "externalId": 6900811,
@@ -10838,7 +10994,9 @@
     "sku": "P00105967715",
     "title": "Garlic Plate",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146810"
   },
   {
     "externalId": 6898001,
@@ -10853,7 +11011,9 @@
     "sku": "P00105965038",
     "title": "White and Gold Wolf Head",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146814"
   },
   {
     "externalId": 6897979,
@@ -10868,7 +11028,9 @@
     "sku": "P00105965018",
     "title": "Giant Red Octopus vs Ship",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146820"
   },
   {
     "externalId": 6897960,
@@ -10883,7 +11045,9 @@
     "sku": "P00105964999",
     "title": "Galloping Gold Horse",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146825"
   },
   {
     "externalId": 6897939,
@@ -10898,7 +11062,9 @@
     "sku": "P00105964978",
     "title": "Fox Golden Portrait",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146835"
   },
   {
     "externalId": 6897912,
@@ -10913,7 +11079,9 @@
     "sku": "P00105964951",
     "title": "Vibrant Gold Elephant",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146843"
   },
   {
     "externalId": 6897873,
@@ -10928,7 +11096,9 @@
     "sku": "P00105964912",
     "title": "Colorful Bald Eagle",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146848"
   },
   {
     "externalId": 6897856,
@@ -10943,7 +11113,9 @@
     "sku": "P00105964895",
     "title": "Cat Aviator in Orange",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146854"
   },
   {
     "externalId": 6897851,
@@ -10958,7 +11130,9 @@
     "sku": "P00105964890",
     "title": "Cat Boxing Red Gloves",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146860"
   },
   {
     "externalId": 6897846,
@@ -10973,7 +11147,9 @@
     "sku": "P00105964885",
     "title": "Happy Sloth in Nature",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146867"
   },
   {
     "externalId": 6895677,
@@ -10988,7 +11164,9 @@
     "sku": "P00105962750",
     "title": "Shrimp Culinary Dish",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146875"
   },
   {
     "externalId": 6895675,
@@ -11003,7 +11181,9 @@
     "sku": "P00105962748",
     "title": "Salmon Dish",
     "quantity": 0,
-    "commissionAfterTax": 0
+    "commissionAfterTax": 0,
+    "shared": true,
+    "pin_id": "814799757627146882"
   },
   {
     "externalId": 6895674,

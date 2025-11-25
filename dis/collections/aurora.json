@@ -1,0 +1,65 @@
+[
+  {
+    "internalId": 7662935,
+    "externalId": 8630115,
+    "sku": "P00107662935",
+    "imageCoreUrl": "2025-09-29/4c722c7e-7725-47e3-902b-246dc25baebf",
+    "orientation": "vertical",
+    "title": "Aurora Borealis over Snowy Mountains and Lake",
+    "labels": []
+  },
+  {
+    "internalId": 7900728,
+    "externalId": 8924857,
+    "sku": "P00107900728",
+    "imageCoreUrl": "2025-11-17/eb2c6be8-f41d-4260-876b-d02b090a6a71",
+    "orientation": "vertical",
+    "title": "Ice Castles Under Aurora Borealis",
+    "labels": []
+  },
+  {
+    "internalId": 7900811,
+    "externalId": 8924969,
+    "sku": "P00107900811",
+    "imageCoreUrl": "2025-11-17/dbe41f69-13ea-474a-96db-6a8261faf35a",
+    "orientation": "vertical",
+    "title": "Arctic Ice Landscape with Aurora Borealis",
+    "labels": []
+  },
+  {
+    "internalId": 7936606,
+    "externalId": 8971671,
+    "sku": "P00107936606",
+    "imageCoreUrl": "2025-11-22/563a43e4-c15c-43f0-8e9d-6969802ebb7b",
+    "orientation": "vertical",
+    "title": "Aurora Borealis over Snowy Mountain Peak",
+    "labels": []
+  },
+  {
+    "internalId": 7939872,
+    "externalId": 8976270,
+    "sku": "P00107939872",
+    "imageCoreUrl": "2025-11-23/4b82e10f-eec4-47ab-b9e0-b390fe7b994c",
+    "orientation": "vertical",
+    "title": "Aurora Borealis over Frozen Lake",
+    "labels": []
+  },
+  {
+    "internalId": 7940484,
+    "externalId": 8977137,
+    "sku": "P00107940484",
+    "imageCoreUrl": "2025-11-23/b79e60b0-4ff9-47ac-8350-ed9dadb60fa6",
+    "orientation": "vertical",
+    "title": "Aurora Borealis over icy landscape",
+    "labels": []
+  },
+  {
+    "internalId": 7941044,
+    "externalId": 8977876,
+    "sku": "P00107941044",
+    "imageCoreUrl": "2025-11-23/349c9e1a-fcbd-4327-9b94-025b403bc10a",
+    "orientation": "vertical",
+    "title": "Aurora Borealis over Frozen Lake",
+    "labels": []
+  }
+]

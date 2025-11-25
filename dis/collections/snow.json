@@ -1,0 +1,29 @@
+[
+  {
+    "internalId": 7673963,
+    "externalId": 8643376,
+    "sku": "P00107673963",
+    "imageCoreUrl": "2025-10-01/e36405e8-684b-4a0c-ae8d-2fa6e5eb55fa",
+    "orientation": "vertical",
+    "title": "Icy Winter Landscape at Sunset",
+    "labels": []
+  },
+  {
+    "internalId": 7754837,
+    "externalId": 8739359,
+    "sku": "P00107754837",
+    "imageCoreUrl": "2025-10-15/76e34307-baa9-4f95-a875-2dd1c4672079",
+    "orientation": "vertical",
+    "title": "Iceberg in Cold Waters",
+    "labels": []
+  },
+  {
+    "internalId": 7783731,
+    "externalId": 8772841,
+    "sku": "P00107783731",
+    "imageCoreUrl": "2025-10-21/a2521741-a4cf-4754-bb71-228a89f83462",
+    "orientation": "vertical",
+    "title": "Red Tree in Winter Snow",
+    "labels": []
+  }
+]

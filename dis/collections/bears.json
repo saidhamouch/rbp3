@@ -1,0 +1,74 @@
+[
+  {
+    "internalId": 5938056,
+    "externalId": 6869625,
+    "sku": "P00105938056",
+    "imageCoreUrl": "2023-09-15/421606d3c961c653fc27e7b4ce76026f_5e9463cc0b1f0faffde0562b226fcc55",
+    "orientation": "vertical",
+    "title": "Bown Bear",
+    "labels": []
+  },
+  {
+    "internalId": 5938057,
+    "externalId": 6869626,
+    "sku": "P00105938057",
+    "imageCoreUrl": "2023-09-15/e20394bc9a14a9942102077fa8bb790f_400f3e7049d3e07e8bb9c04111b4d040",
+    "orientation": "vertical",
+    "title": "Growling Bear",
+    "labels": []
+  },
+  {
+    "internalId": 5938071,
+    "externalId": 6869640,
+    "sku": "P00105938071",
+    "imageCoreUrl": "2023-09-15/05a0eba62eb6e431e76f05a13cb8a84d_7e151f6852527adc22170b573e6233c2",
+    "orientation": "vertical",
+    "title": "Bear with a Pot",
+    "labels": []
+  },
+  {
+    "internalId": 5938073,
+    "externalId": 6869642,
+    "sku": "P00105938073",
+    "imageCoreUrl": "2023-09-15/5595d926e01a90c98b2f279c00843df5_6abf239852a1d40cb6008539c3e18daf",
+    "orientation": "vertical",
+    "title": "Bear Playing Painting",
+    "labels": []
+  },
+  {
+    "internalId": 5949800,
+    "externalId": 6881860,
+    "sku": "P00105949800",
+    "imageCoreUrl": "2023-09-21/08c6cdfc42234e064bff64ed173a8f98_39975f0a609290bc7df7cf479829fb5c",
+    "orientation": "vertical",
+    "title": "Black Bear Growling",
+    "labels": []
+  },
+  {
+    "internalId": 5954847,
+    "externalId": 6887238,
+    "sku": "P00105954847",
+    "imageCoreUrl": "2023-09-24/11e818a75ac8f4bd0be0a09adf74ea8f_600ebb0ec372bd7dd4ea5e878d7b70c0",
+    "orientation": "vertical",
+    "title": "Young Brown Bear Painting",
+    "labels": []
+  },
+  {
+    "internalId": 5969183,
+    "externalId": 6902295,
+    "sku": "P00105969183",
+    "imageCoreUrl": "2023-09-30/8be80cc5ab7455bd6ba8137f425205f3_c36afde6b5903067a99405ecd9b6e92c",
+    "orientation": "vertical",
+    "title": "Black Bear with Honey Jar",
+    "labels": []
+  },
+  {
+    "internalId": 6470247,
+    "externalId": 7415361,
+    "sku": "P00106470247",
+    "imageCoreUrl": "2024-07-25/cf2e717df53c683e1e19d5865630b810_67b2d4aba55d10fafe95d6f875d39d87",
+    "orientation": "vertical",
+    "title": "Baby Bear Drinking Coffee",
+    "labels": []
+  }
+]

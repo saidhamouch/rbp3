@@ -1,0 +1,38 @@
+[
+  {
+    "internalId": 6254168,
+    "externalId": 7196310,
+    "sku": "P00106254168",
+    "imageCoreUrl": "2024-02-07/58515cf0876e23347c47a0ceef954b0f_da566fe4095204c643ab275df2b23dc8",
+    "orientation": "vertical",
+    "title": "Llama Portrait Painting",
+    "labels": []
+  },
+  {
+    "internalId": 6254172,
+    "externalId": 7196314,
+    "sku": "P00106254172",
+    "imageCoreUrl": "2024-02-07/6fb995d49a6d8822e653546490485d4b_d29274c4ed826f5ed92b3296913971bd",
+    "orientation": "vertical",
+    "title": "Colorful llama Painting",
+    "labels": []
+  },
+  {
+    "internalId": 6261274,
+    "externalId": 7203823,
+    "sku": "P00106261274",
+    "imageCoreUrl": "2024-02-13/2ead11af80099c469b61f7094caf3767_1dc4157aec1974500b8a3af3f7877eaf",
+    "orientation": "vertical",
+    "title": "Llama Painting",
+    "labels": []
+  },
+  {
+    "internalId": 6272123,
+    "externalId": 7215406,
+    "sku": "P00106272123",
+    "imageCoreUrl": "2024-02-22/4eeb5084eedd1fd33c729f9313106cb0_ac3947ffd43a6508f27aecac1124542e",
+    "orientation": "vertical",
+    "title": "Llama Minimalist Painting",
+    "labels": []
+  }
+]

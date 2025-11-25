@@ -1,0 +1,83 @@
+[
+  {
+    "internalId": 5928222,
+    "externalId": 6859571,
+    "sku": "P00105928222",
+    "imageCoreUrl": "2023-09-11/ff466028aed979525eab95efe3e575fc_5d8fa7773c31691520eae5db9387320e",
+    "orientation": "vertical",
+    "title": "Black and Gold Lion",
+    "labels": []
+  },
+  {
+    "internalId": 5928229,
+    "externalId": 6859578,
+    "sku": "P00105928229",
+    "imageCoreUrl": "2023-09-11/1fad25e44a891788580a505c0f0201a6_87c3a3063546f8c07a4e7e51b2777c0f",
+    "orientation": "vertical",
+    "title": "Lion in Black and Gold",
+    "labels": []
+  },
+  {
+    "internalId": 5928237,
+    "externalId": 6859586,
+    "sku": "P00105928237",
+    "imageCoreUrl": "2023-09-11/3e82cf3d6f7b2f6f8976c83d3bf6b9c9_e7dbaefcf49db001aca743d4520f6db3",
+    "orientation": "vertical",
+    "title": "Majestic Lion in Gold",
+    "labels": []
+  },
+  {
+    "internalId": 5928240,
+    "externalId": 6859589,
+    "sku": "P00105928240",
+    "imageCoreUrl": "2023-09-11/4db965591b3766858b09aeb25fd044bd_91624d5e4fb61d49c3fc0854c5c61dec",
+    "orientation": "vertical",
+    "title": "Golden Lion Head",
+    "labels": []
+  },
+  {
+    "internalId": 6470263,
+    "externalId": 7415377,
+    "sku": "P00106470263",
+    "imageCoreUrl": "2024-07-25/691b12eba59a3af717789825616ca5a1_2c8fd8b26685e4e31dfade6b6df459a6",
+    "orientation": "vertical",
+    "title": "Lion in Ink Style",
+    "labels": []
+  },
+  {
+    "internalId": 6471385,
+    "externalId": 7416511,
+    "sku": "P00106471385",
+    "imageCoreUrl": "2024-07-26/8f68eb5bb3c8daf8240daef89bb92bf2_a626dc5072c28e40259a11684ea259bc",
+    "orientation": "vertical",
+    "title": "Lion Portrait Flowers",
+    "labels": []
+  },
+  {
+    "internalId": 6472339,
+    "externalId": 7417465,
+    "sku": "P00106472339",
+    "imageCoreUrl": "2024-07-27/4a5afbab69f7e67f04a8cc7eddd22db8_86bbfdb9c9e3d2ba3e33eb8bf75f9680",
+    "orientation": "vertical",
+    "title": "Lion Cub Butterfly",
+    "labels": []
+  },
+  {
+    "internalId": 6473229,
+    "externalId": 7418355,
+    "sku": "P00106473229",
+    "imageCoreUrl": "2024-07-28/efad37e3d026555991279d8d3460a274_b040e5847c1bf75da8eb20340fa362cf",
+    "orientation": "vertical",
+    "title": "Lioness Portrait Flowers",
+    "labels": []
+  },
+  {
+    "internalId": 7191387,
+    "externalId": 8138607,
+    "sku": "P00107191387",
+    "imageCoreUrl": "2025-04-24/4cf2c6e3-a370-49d3-b594-228f65b2906b",
+    "orientation": "vertical",
+    "title": "Lioness on a Rock",
+    "labels": []
+  }
+]

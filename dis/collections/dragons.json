@@ -1,0 +1,101 @@
+[
+  {
+    "internalId": 5755487,
+    "externalId": 6682923,
+    "sku": "P00105755487",
+    "imageCoreUrl": "2023-06-16/2c0d16a4f9a3193a089b6ff6ff05cc62_904fa3db9cc2aa720b84a98e7169e109",
+    "orientation": "vertical",
+    "title": "Dragon Artwork Painting",
+    "labels": []
+  },
+  {
+    "internalId": 5755531,
+    "externalId": 6682967,
+    "sku": "P00105755531",
+    "imageCoreUrl": "2023-06-16/8a2b3fa406bed73bbbff1f1cfbc47a45_8dbdb328af216ee51e5a4a90e44ab39d",
+    "orientation": "vertical",
+    "title": "Painting of a Dragon",
+    "labels": []
+  },
+  {
+    "internalId": 5755535,
+    "externalId": 6682971,
+    "sku": "P00105755535",
+    "imageCoreUrl": "2023-06-16/4a534f24f70dbbd7ca0277847ac74244_6f14d485732b3cefc8d115fed25c7207",
+    "orientation": "vertical",
+    "title": "Dragon Art Painting",
+    "labels": []
+  },
+  {
+    "internalId": 5757744,
+    "externalId": 6685191,
+    "sku": "P00105757744",
+    "imageCoreUrl": "2023-06-17/702a5a8eea36fae6e9734255e4b3bfba_ddfb46db3ac70826f8ecb5e7e531a316",
+    "orientation": "vertical",
+    "title": "Dragons Artwork Painting",
+    "labels": []
+  },
+  {
+    "internalId": 5941251,
+    "externalId": 6872834,
+    "sku": "P00105941251",
+    "imageCoreUrl": "2023-09-18/43501dd84066fb37a8d1009131269c31_fc86a5ac33918864c285e97577eab67b",
+    "orientation": "vertical",
+    "title": "Magestic Dragon Painting",
+    "labels": []
+  },
+  {
+    "internalId": 5949818,
+    "externalId": 6881878,
+    "sku": "P00105949818",
+    "imageCoreUrl": "2023-09-21/c8aab5ecbf727de166aad8ef5ddc1b3b_8a7480fb6c0ba4b68d3e587c60a0417f",
+    "orientation": "vertical",
+    "title": "Golden Dragon Head",
+    "labels": []
+  },
+  {
+    "internalId": 5952004,
+    "externalId": 6884286,
+    "sku": "P00105952004",
+    "imageCoreUrl": "2023-09-22/45418362d88a3e989ed81d1876e811ff_b04bc195a5fc46e281040bd903f29b63",
+    "orientation": "vertical",
+    "title": "White Dragon Roaring",
+    "labels": []
+  },
+  {
+    "internalId": 5957229,
+    "externalId": 6889752,
+    "sku": "P00105957229",
+    "imageCoreUrl": "2023-09-25/e44cf0cda2aa6ee949fea6c99101ce76_965c5b4712cd2c1565eedb2a2c35cefa",
+    "orientation": "vertical",
+    "title": "Dragon Head Painting",
+    "labels": []
+  },
+  {
+    "internalId": 5975215,
+    "externalId": 6908480,
+    "sku": "P00105975215",
+    "imageCoreUrl": "2023-10-03/01bd15ce312802f8e4d3aa51e4221bfd_f7addd3a1a5a3472ee9f92b7cbf80a87",
+    "orientation": "vertical",
+    "title": "White Dragon",
+    "labels": []
+  },
+  {
+    "internalId": 6100898,
+    "externalId": 7040425,
+    "sku": "P00106100898",
+    "imageCoreUrl": "2023-11-24/48ce200c6f6d94d53ccf59f28858b131_9f1261333260ea03ea90befd79bff066",
+    "orientation": "vertical",
+    "title": "Colorful Dragon",
+    "labels": []
+  },
+  {
+    "internalId": 6108034,
+    "externalId": 7047655,
+    "sku": "P00106108034",
+    "imageCoreUrl": "2023-11-27/b1e3686cae9b1b618750abd1fcd3a3d9_8b44624a539fd7daf711bb865170a657",
+    "orientation": "vertical",
+    "title": "White Dragon in the Clouds",
+    "labels": []
+  }
+]

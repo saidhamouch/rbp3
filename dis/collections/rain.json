@@ -1,0 +1,29 @@
+[
+  {
+    "internalId": 7002288,
+    "externalId": 7949184,
+    "sku": "P00107002288",
+    "imageCoreUrl": "2025-02-05/4aa98a24-cda5-4833-9a06-35140ec137f2",
+    "orientation": "vertical",
+    "title": "Rain in the Canyon",
+    "labels": []
+  },
+  {
+    "internalId": 7188875,
+    "externalId": 8136085,
+    "sku": "P00107188875",
+    "imageCoreUrl": "2025-04-23/227a6a5b-5b40-463c-a2ac-652c0b917685",
+    "orientation": "vertical",
+    "title": "Lotus Flowers in Rain",
+    "labels": []
+  },
+  {
+    "internalId": 7401567,
+    "externalId": 8347517,
+    "sku": "P00107401567",
+    "imageCoreUrl": "2025-07-25/78da8971-1928-47e9-90a9-283e14bc66c1",
+    "orientation": "vertical",
+    "title": "Lotus Flowers in the Rain",
+    "labels": []
+  }
+]

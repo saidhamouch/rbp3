@@ -1,0 +1,29 @@
+[
+  {
+    "internalId": 5941238,
+    "externalId": 6872821,
+    "sku": "P00105941238",
+    "imageCoreUrl": "2023-09-18/e4f4cd443fd272037cda4eda72e810d2_f72daf335d17f7df621c4c2df2488ceb",
+    "orientation": "vertical",
+    "title": "Golden Chess King Painting",
+    "labels": []
+  },
+  {
+    "internalId": 6141857,
+    "externalId": 7082115,
+    "sku": "P00106141857",
+    "imageCoreUrl": "2023-12-09/c36ec6964b4c459727fc0c577d997fcf_86525bfd50f81d9601cd46ed26e3fdb2",
+    "orientation": "vertical",
+    "title": "Chess King Painting",
+    "labels": []
+  },
+  {
+    "internalId": 6148569,
+    "externalId": 7089032,
+    "sku": "P00106148569",
+    "imageCoreUrl": "2023-12-12/b2099fdc5b57b8c9785de92ac8e26a6e_c92895ecbac00205384cd2e0c37a58a0",
+    "orientation": "vertical",
+    "title": "Chess Queen Painting",
+    "labels": []
+  }
+]

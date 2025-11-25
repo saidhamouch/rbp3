@@ -1,0 +1,47 @@
+[
+  {
+    "internalId": 5953427,
+    "externalId": 6885752,
+    "sku": "P00105953427",
+    "imageCoreUrl": "2023-09-23/aab2798f05835ccdcbd125d5749eab4a_5308ac0b01f0b617b5d23369b524083d",
+    "orientation": "vertical",
+    "title": "Giant Octopus",
+    "labels": []
+  },
+  {
+    "internalId": 5954890,
+    "externalId": 6887281,
+    "sku": "P00105954890",
+    "imageCoreUrl": "2023-09-24/632dad78c0c6cb55caca4b833fd9cdb5_78a288bca2cad95a11d7a381ba5b02cc",
+    "orientation": "vertical",
+    "title": "Kraken Giant Red Octopus",
+    "labels": []
+  },
+  {
+    "internalId": 5965018,
+    "externalId": 6897979,
+    "sku": "P00105965018",
+    "imageCoreUrl": "2023-09-28/3bf6519ebbb91cceeb19576870a3883a_f942fe3b1a5bdaa3ad271718ddc00e32",
+    "orientation": "vertical",
+    "title": "Giant Red Octopus vs Ship",
+    "labels": []
+  },
+  {
+    "internalId": 5975265,
+    "externalId": 6908531,
+    "sku": "P00105975265",
+    "imageCoreUrl": "2023-10-03/8bcc2cc5de47b71bef9685c4304f85e5_ac44a2ce4e03843910888a1c6791da0d",
+    "orientation": "vertical",
+    "title": "Giant Octopus Kraken",
+    "labels": []
+  },
+  {
+    "internalId": 6096078,
+    "externalId": 7035235,
+    "sku": "P00106096078",
+    "imageCoreUrl": "2023-11-22/e003e111125e3f60166b082b9a952d8a_67de985a83bba526636e407e82005cf0",
+    "orientation": "vertical",
+    "title": "Kraken Attacking Ship",
+    "labels": []
+  }
+]

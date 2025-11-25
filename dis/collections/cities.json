@@ -1,0 +1,56 @@
+[
+  {
+    "internalId": 6469198,
+    "externalId": 7414312,
+    "sku": "P00106469198",
+    "imageCoreUrl": "2024-07-24/9eba747de95982194298fb1da1337f0d_4853dcd60a17b7f3c5db0857836c85e1",
+    "orientation": "vertical",
+    "title": "Sydney City Australia",
+    "labels": []
+  },
+  {
+    "internalId": 6470265,
+    "externalId": 7415379,
+    "sku": "P00106470265",
+    "imageCoreUrl": "2024-07-25/824b0cb62812269302ac4b5d92d80daf_2ac0171311a3036e6f48884d743d8c66",
+    "orientation": "vertical",
+    "title": "Minimalist New York City",
+    "labels": []
+  },
+  {
+    "internalId": 6470266,
+    "externalId": 7415380,
+    "sku": "P00106470266",
+    "imageCoreUrl": "2024-07-25/7451bb6fa74ba03c4d0365ea909eeb4b_8201c2da4f1ffd6bec8f6c8addd2c466",
+    "orientation": "vertical",
+    "title": "Minimalist Sydney City",
+    "labels": []
+  },
+  {
+    "internalId": 6471394,
+    "externalId": 7416520,
+    "sku": "P00106471394",
+    "imageCoreUrl": "2024-07-26/ab9cfea541207bb89601f4d8ba412cfc_90903dc388c13eff52fe6a3f406dbb1e",
+    "orientation": "vertical",
+    "title": "Australia Sydney City",
+    "labels": []
+  },
+  {
+    "internalId": 6472334,
+    "externalId": 7417460,
+    "sku": "P00106472334",
+    "imageCoreUrl": "2024-07-27/799ad8093c36092d1eecdc15c91cb902_2d18fff05799da87d1443658b470bc8c",
+    "orientation": "vertical",
+    "title": "Australia Sydney City",
+    "labels": []
+  },
+  {
+    "internalId": 6472338,
+    "externalId": 7417464,
+    "sku": "P00106472338",
+    "imageCoreUrl": "2024-07-27/868df18213a2a46c8e7b78bca60e2f03_4507578a7a126aa955cf5cb9407a78ca",
+    "orientation": "horizontal",
+    "title": "Paris Eiffel Tower",
+    "labels": []
+  }
+]
