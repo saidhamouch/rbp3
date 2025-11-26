@@ -1,13 +1,13 @@
 const cron = require("node-cron");
 
-const getPendingCollections = require("./utils/getPendingCollections");
-const getSingleCollection = require("./utils/getSingleCollection");
+const getPendingCollections = require("./utils/getPendingCollectionsV3");
+const getSingleCollection = require("./utils/getSingleCollectionV3");
 const createBoard = require("./utils/createBoardV3");
-const updateCollectionBoardCreated = require("./utils/updateCollectionBoardCreated");
+const updateCollectionBoardCreated = require("./utils/updateCollectionBoardCreatedV3");
 const generatePayload = require("./utils/generatePinPayloadV3");
 const createPin = require("./utils/createPin");
-const updatePinShared = require("./utils/updatePinShared");
-const updateCollectionShared = require("./utils/updateCollectionBoardShared");
+const updatePinShared = require("./utils/updatePinSharedV3");
+const updateCollectionShared = require("./utils/updateCollectionBoardSharedV3");
 
 const file = "displates2.json";
 const data = require("./" + file);
