@@ -1,3 +1,4 @@
+const { log } = require("console");
 const fs = require("fs");
 const path = require("path");
 
@@ -18,5 +19,4 @@ function fileExists(number, folderPath, extension) {
   // Check if exists
   return fs.existsSync(fullPath);
 }
-
 module.exports = fileExists;

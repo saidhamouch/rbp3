@@ -1,6 +1,7 @@
 const fs = require("fs");
 
-async function encodeLocalImage(path) {
+async function encodeLocalImage(externalId, imagesPath) {
+  const path = `${imagesPath}/${externalId}.png`;
   try {
     let buffer = fs.readFileSync(path);
     return buffer.toString("base64");

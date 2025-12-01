@@ -1,30 +1,30 @@
 const cron = require("node-cron");
 
-const getPendingCollections = require("./utils/getPendingCollectionsV3");
-const getSingleCollection = require("./utils/getSingleCollectionV3");
-const createBoard = require("./utils/createBoardV3");
-const updateCollectionBoardCreated = require("./utils/updateCollectionBoardCreatedV3");
-const generatePayload = require("./utils/generatePinPayloadV3");
+const getPendingCollections = require("./utils/getPendingCollectionsV4");
+const getSingleCollection = require("./utils/getSingleCollectionV4");
+const createBoard = require("./utils/createBoardV4");
+const updateCollectionBoardCreated = require("./utils/updateCollectionBoardCreatedV4");
+const generatePayload = require("./utils/generatePinPayloadV4");
 const createPin = require("./utils/createPin");
-const updatePinShared = require("./utils/updatePinSharedV3");
-const updateCollectionShared = require("./utils/updateCollectionBoardSharedV3");
+const updatePinShared = require("./utils/updatePinSharedV4");
+const updateCollectionShared = require("./utils/updateCollectionBoardSharedV4");
 const fileExists = require("./utils/fileExists");
 
-const file = "displates2.json";
+const file = "displates01.json";
 const data = require("./" + file);
 const imagesPath = require("./images/Images 1");
 cron.schedule("*/20 * * * * *", async () => {
   console.log("20 seconds passed: " + new Date().toJSON());
   try {
     // Get Pending Collections links
-    const pendingCollections = await getPendingCollections();
+    const pendingCollections = await getPendingCollections(file);
     //console.log(pendingCollections);
 
     for (let i = 0; i < pendingCollections.length; i++) {
       const collectionLink = pendingCollections[i];
 
       // Get Collection (using link)
-      const col = await getSingleCollection(collectionLink);
+      const col = await getSingleCollection(collectionLink, file);
       //console.log(pendingCollections);
       // Board Id
       let boardID = col.board_id || "";
@@ -40,7 +40,8 @@ cron.schedule("*/20 * * * * *", async () => {
         // Update Design
         const updatedBoardDesign = await updateCollectionBoardCreated(
           board.data.id,
-          collectionLink
+          collectionLink,
+          file
         );
 
         // Board Id
@@ -51,15 +52,20 @@ cron.schedule("*/20 * * * * *", async () => {
       let posters = col.posters;
       for (let j = 0; j < posters.length; j++) {
         const poster = posters[j];
-        const fileExists = await fileExists(
+        const posterExists = await fileExists(
           poster.externalId,
           imagesPath,
           ".png"
         );
 
-        if (!poster.shared && fileExists) {
+        if (!poster.shared && posterExists) {
           // Generate Pin Payload
-          const pinPayload = await generatePayload(j, poster, boardID);
+          const pinPayload = await generatePayload(
+            j,
+            poster,
+            boardID,
+            imagesPath
+          );
           // Create Pin
           if (
             !poster.imageLink.includes("preview-reference-assets") &&
@@ -71,7 +77,8 @@ cron.schedule("*/20 * * * * *", async () => {
             if (pin.data.id) {
               const updatePoster = await updatePinShared(
                 collectionLink,
-                poster.id
+                poster.id,
+                file
               );
               console.log("Poster updated");
             }
@@ -84,7 +91,8 @@ cron.schedule("*/20 * * * * *", async () => {
           }
           if (j == posters.length - 1) {
             const updatePostersAllShared = await updateCollectionShared(
-              collectionLink
+              collectionLink,
+              file
             );
             console.log("Design Updated");
           } else {
