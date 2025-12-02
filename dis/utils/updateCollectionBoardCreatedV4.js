@@ -1,9 +1,11 @@
 const fs = require("fs");
 const path = require("path");
 
-const updateCollectionBoardCreated = async (boardID, collectionLink, file) => {
-  const filePath = path.join(__dirname, file); // Replace with the path to your JSON file
-
+const updateCollectionBoardCreated = async (
+  boardID,
+  collectionLink,
+  filePath
+) => {
   // Read the content of the JSON file
   const fileContent = fs.readFileSync(filePath, "utf-8");
 

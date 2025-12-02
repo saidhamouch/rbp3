@@ -1,9 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const updatePinShared = async (collectionLink, posterID, file) => {
-  const filePath = path.join(__dirname, file); // Replace with the path to your JSON file
-
+const updatePinShared = async (collectionLink, posterID, filePath) => {
   try {
     // Read the JSON file
     const data = fs.readFileSync(filePath, "utf-8");

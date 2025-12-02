@@ -12,19 +12,21 @@ const fileExists = require("./utils/fileExists");
 
 const file = "displates01.json";
 const data = require("./" + file);
-const imagesPath = require("./images/Images 1");
+const path = require("path");
+const imagesPath = path.join(__dirname, "images", "Images 1");
+const filePath = path.join(__dirname, file);
 cron.schedule("*/20 * * * * *", async () => {
   console.log("20 seconds passed: " + new Date().toJSON());
   try {
     // Get Pending Collections links
-    const pendingCollections = await getPendingCollections(file);
+    const pendingCollections = await getPendingCollections(filePath);
     //console.log(pendingCollections);
 
     for (let i = 0; i < pendingCollections.length; i++) {
       const collectionLink = pendingCollections[i];
 
       // Get Collection (using link)
-      const col = await getSingleCollection(collectionLink, file);
+      const col = await getSingleCollection(collectionLink, filePath);
       //console.log(pendingCollections);
       // Board Id
       let boardID = col.board_id || "";
@@ -41,7 +43,7 @@ cron.schedule("*/20 * * * * *", async () => {
         const updatedBoardDesign = await updateCollectionBoardCreated(
           board.data.id,
           collectionLink,
-          file
+          filePath
         );
 
         // Board Id
@@ -78,7 +80,7 @@ cron.schedule("*/20 * * * * *", async () => {
               const updatePoster = await updatePinShared(
                 collectionLink,
                 poster.id,
-                file
+                filePath
               );
               console.log("Poster updated");
             }
@@ -92,7 +94,7 @@ cron.schedule("*/20 * * * * *", async () => {
           if (j == posters.length - 1) {
             const updatePostersAllShared = await updateCollectionShared(
               collectionLink,
-              file
+              filePath
             );
             console.log("Design Updated");
           } else {

@@ -1,9 +1,6 @@
 const fs = require("fs");
-const path = require("path");
 
-const getSingleCollection = async (collectionLink, file) => {
-  const filePath = path.join(__dirname, file); // Replace with the path to your JSON file
-
+const getSingleCollection = async (collectionLink, filePath) => {
   // Read the JSON file
   const data = fs.readFileSync(filePath, "utf-8");
   const jsonData = JSON.parse(data);

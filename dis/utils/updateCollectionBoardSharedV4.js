@@ -1,9 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const updateCollectionBoardCreated = async (collectionLink, file) => {
-  const filePath = path.join(__dirname, file);
-
+const updateCollectionBoardCreated = async (collectionLink, filePath) => {
   try {
     // Read the content of the JSON file
     const fileContent = fs.readFileSync(filePath, "utf-8");
