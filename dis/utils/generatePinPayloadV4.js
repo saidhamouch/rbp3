@@ -14,7 +14,7 @@ async function generatePayload(index, poster, boardId, imagesPath) {
 
     const payload = {
       link: poster.posterLink + "?art=5eda570e734ef",
-      title: poster.title + " Poster - " + index,
+      title: poster.title + " Poster Displate - " + index,
       description,
       alt_text: altText,
       board_id: boardId,
@@ -54,3 +54,8 @@ function trimToLimit(text, maxLength) {
 }
 
 module.exports = generatePayload;
+
+// title: poster.title + " Displate Metal Poster - " + index,
+// title: poster.title + " Metal Poster - " + index,
+// title: poster.title + " Poster - " + index,
+// title: poster.title + " Poster Displate - " + index,

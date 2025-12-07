@@ -10,7 +10,7 @@ const updatePinShared = require("./utils/updatePinSharedV4");
 const updateCollectionShared = require("./utils/updateCollectionBoardSharedV4");
 const fileExists = require("./utils/fileExists");
 
-const file = "displates01.json";
+const file = "displates02.json";
 const data = require("./" + file);
 const path = require("path");
 const imagesPath = path.join(__dirname, "images", "Images 1");
