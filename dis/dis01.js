@@ -13,7 +13,7 @@ const fileExists = require("./utils/fileExists");
 const file = "displates02.json";
 const data = require("./" + file);
 const path = require("path");
-const imagesPath = path.join(__dirname, "images", "Images 1");
+const imagesPath = path.join(__dirname, "images", "Images 2");
 const filePath = path.join(__dirname, file);
 cron.schedule("*/20 * * * * *", async () => {
   console.log("20 seconds passed: " + new Date().toJSON());
