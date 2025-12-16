@@ -11,8 +11,8 @@ const createBoard = async (title) => {
   const editedTitle = editTitle(title);
   try {
     const payload = {
-      name: `${editedTitle} Posters - Displate`,
-      description: `${title} Displate Metal Posters`,
+      name: `${editedTitle} Metal Poster`,
+      description: `${title} Metal Posters - Displate`,
       privacy: "PUBLIC",
     };
     const board = await axios.post(
@@ -41,4 +41,5 @@ module.exports = createBoard;
 // name: `${editedTitle} Metal Posters`,
 // name: `${editedTitle} Metal Posters - Displate`,
 // name: `${editedTitle} Displate Posters`,
-// name: `${editedTitle} Posters - Displate`,
+// 3 -  name: `${editedTitle} Posters - Displate`,
+// 4 -  name: `${editedTitle} Metal Poster`,
