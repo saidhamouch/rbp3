@@ -11,7 +11,7 @@ const createBoard = async (title) => {
   const editedTitle = editTitle(title);
   try {
     const payload = {
-      name: `${editedTitle} Metal Poster`,
+      name: `${editedTitle} Poster Metal Displate`,
       description: `${title} Metal Posters - Displate`,
       privacy: "PUBLIC",
     };
@@ -42,4 +42,5 @@ module.exports = createBoard;
 // name: `${editedTitle} Metal Posters - Displate`,
 // name: `${editedTitle} Displate Posters`,
 // 3 -  name: `${editedTitle} Posters - Displate`,
-// 4 -  name: `${editedTitle} Metal Poster`,
+// 4-1 -  name: `${editedTitle} Metal Poster`,
+// 4-2 -  name: `${editedTitle} Poster Metal Displate`,
