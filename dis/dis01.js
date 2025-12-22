@@ -10,10 +10,10 @@ const updatePinShared = require("./utils/updatePinSharedV4");
 const updateCollectionShared = require("./utils/updateCollectionBoardSharedV4");
 const fileExists = require("./utils/fileExists");
 
-const file = "displates04.json";
+const file = "displates05.json";
 const data = require("./" + file);
 const path = require("path");
-const imagesPath = path.join(__dirname, "images", "Images 4");
+const imagesPath = path.join(__dirname, "images", "Images 5");
 const filePath = path.join(__dirname, file);
 cron.schedule("*/20 * * * * *", async () => {
   console.log("20 seconds passed: " + new Date().toJSON());
