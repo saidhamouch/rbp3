@@ -1,12 +1,26 @@
 const encodeImage = require("./encodeImageV2");
 
-async function generatePayload(index, poster, boardId, imagesPath) {
+async function generatePayload(index, poster, boardId, imagesPath, col) {
   try {
+    // let description =
+    //   poster.description + " Displate Metal Posters. " + poster.tags;
+
+    // let altText =
+    //   poster.description + " Displate Metal Posters. " + poster.tags;
+
     let description =
-      poster.description + " Displate Metal Posters. " + poster.tags;
+      poster.title +
+      " High-quality metal print. ✅ In Stock. ✈️ Ships Worldwide. Shop this poster now on Displate. " +
+      col.title +
+      "Lover Gift Idea. " +
+      poster.tags;
 
     let altText =
-      poster.description + " Displate Metal Posters. " + poster.tags;
+      poster.title +
+      " High-quality metal print. ✅ In Stock. ✈️ Ships Worldwide. Shop this poster now on Displate. " +
+      col.title +
+      "Lover Gift Idea. " +
+      poster.tags;
 
     // apply trimming rules
     description = trimToLimit(description, 500);
@@ -14,7 +28,7 @@ async function generatePayload(index, poster, boardId, imagesPath) {
 
     const payload = {
       link: poster.posterLink + "?art=5eda570e734ef",
-      title: poster.title + " Poster Metal " + index,
+      title: poster.title + " Metal Poster - $49.99 - " + index,
       description,
       alt_text: altText,
       board_id: boardId,
@@ -63,3 +77,4 @@ module.exports = generatePayload;
 // 4 - title: poster.title + " Displate Poster - " + index,
 // 5 - title: poster.title + " Poster Displate " + index,
 // 6 - title: poster.title + " Poster Metal " + index,
+// 9 - title: poster.title + " Metal Poster - $49.99 " + index,
