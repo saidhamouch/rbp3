@@ -28,7 +28,7 @@ async function generatePayload(index, poster, boardId, imagesPath, col) {
 
     const payload = {
       link: poster.posterLink + "?art=5eda570e734ef",
-      title: poster.title + " Metal Poster - $49.99 - " + index,
+      title: poster.title + " Poster - $49.99 - " + index,
       description,
       alt_text: altText,
       board_id: boardId,
@@ -78,3 +78,4 @@ module.exports = generatePayload;
 // 5 - title: poster.title + " Poster Displate " + index,
 // 6 - title: poster.title + " Poster Metal " + index,
 // 9 - title: poster.title + " Metal Poster - $49.99 " + index,
+// 10 - title: poster.title + " Poster - $49.99 " + index,

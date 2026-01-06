@@ -11,7 +11,7 @@ const createBoard = async (title) => {
   const editedTitle = editTitle(title);
   try {
     const payload = {
-      name: `${editedTitle} Lover Gift Ideas`,
+      name: `${editedTitle} Lovers Gift Ideas`,
       description: `${title} Lover Gift Ideas. Metal Posters.`,
       privacy: "PUBLIC",
     };
@@ -47,3 +47,4 @@ module.exports = createBoard;
 // 5 -  name: `${editedTitle} Displate Metal Posters`,
 // 6 -  name: `${editedTitle} Posters Displate Metal`,
 // 9 -  name: `${editedTitle} Lover Gift Ideas`,
+// 10 -  name: `${editedTitle} Lovers Gift Ideas`,
